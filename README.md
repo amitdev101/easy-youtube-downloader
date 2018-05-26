@@ -8,11 +8,24 @@ Power of open source code
 currently supporting videos upto 720p
 
 Features to add in future version:
+'''
+
 1080p support
+
+
 mp3 support
+
+
+
 playlist support
+
+
+
 extract link to a txt file.
 
+
+
+'''
 requirements : pytube
 To install pytube use command 'pip install pytube'
 '''
